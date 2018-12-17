@@ -13,5 +13,5 @@ Result:
 The 'Proxy' Azure function has regex to allow for any route to be entered to target the API. 
   
 Sample calls:  
-/api/values/5
-/api/todo/something%20to%20%do
+/api/values/5  
+/api/todo/something%20to%20%do  
