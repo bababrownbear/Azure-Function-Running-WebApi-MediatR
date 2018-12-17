@@ -1,4 +1,4 @@
-# Serverless WebApi - Host an ASP.NET Core WebApi in Azure Functions PLUS MediatR
+# Serverless WebApi - Host an ASP.NET Core WebApi in a single Azure Function PLUS MediatR
   
 Forked:  
 https://blog.wille-zone.de/post/serverless-webapi-hosting-aspnetcore-webapi-in-azure-functions/  
