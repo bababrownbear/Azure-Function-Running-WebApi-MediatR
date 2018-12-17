@@ -1,9 +1,10 @@
-# Serverless WebApi - Host an ASP.NET Core WebApi in Azure Functions.
-
-Forked:
-https://blog.wille-zone.de/post/serverless-webapi-hosting-aspnetcore-webapi-in-azure-functions/
-Followed:
-https://carljackson.io/how-to-get-started-with-mediatr-and-asp-net-core-2/
-https://github.com/jbogard/MediatR/wiki
-
-Result:
+# Serverless WebApi - Host an ASP.NET Core WebApi in Azure Functions PLUS MediatR
+  
+Forked:  
+https://blog.wille-zone.de/post/serverless-webapi-hosting-aspnetcore-webapi-in-azure-functions/  
+Followed:  
+https://carljackson.io/how-to-get-started-with-mediatr-and-asp-net-core-2/  
+https://github.com/jbogard/MediatR/wiki  
+  
+Result:  
+![image](https://user-images.githubusercontent.com/29419183/50062238-b0bfd080-016b-11e9-811f-2354478d00a2.png)
