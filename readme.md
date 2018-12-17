@@ -8,3 +8,10 @@ https://github.com/jbogard/MediatR/wiki
   
 Result:  
 ![image](https://user-images.githubusercontent.com/29419183/50062238-b0bfd080-016b-11e9-811f-2354478d00a2.png)
+  
+  
+The 'Proxy' Azure function has regex to allow for any route to be entered to target the API. 
+  
+Sample calls:  
+/api/values/5
+/api/todo/something%20to%20%do
