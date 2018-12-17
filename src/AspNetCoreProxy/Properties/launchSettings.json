@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "AspNetCoreProxy": {
+      "commandName": "Project"
+    }
+  }
+}
